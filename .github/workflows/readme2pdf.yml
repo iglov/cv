@@ -1,0 +1,34 @@
+name: Docs to PDF
+# This workflow is triggered on pushes to the repository.
+on:
+  push:
+    branches:
+      - main
+    # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
+    paths:
+      - 'README.md'
+
+jobs:
+  converttopdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_path: README.md
+          output_dir: pdfs
+          build_html: false
+      - name: Upload pdf to repo
+        working-directory: ./pdfs/
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git status
+          git add ../pdfs/README.pdf
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update README.pdf"
+          git push
