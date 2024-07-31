@@ -1,9 +1,9 @@
-title: Igor Lovalev  
+title:    Igor Lovalev  
 logo: 1.png
-description: Site Reliability / DevOps / DevSecOps Engineer
-show_downloads: true
+description: Site Reliability / Network / DevOps / DevSecOps Engineer
+show_downloads: false
 
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag

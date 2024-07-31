@@ -1,11 +1,11 @@
 # Igor Lovalev
 
-**Address:** Wrocław, Poland, CET
+_DevOps engineer based in Wrocław, Poland, CET_ <br>
 
-**Email:** iglov@avalon.land
+[Email](mailto:iglov@avalon.land) / [Website](https://iglov.github.io/) / [GitHub](https://github.com/iglov/)
 
 ## Objective
-Highly skilled and motivated Site Reliability Engineer (SRE) / DevOps with over then 10 years of experience in designing, building, and maintaining highly scalable and reliable systems.
+Highly skilled and motivated Site Reliability Engineer (SRE) / DevOps with more than 10 years of experience in designing, building, and maintaining highly scalable and reliable systems.
 
 ## Skills
 - Programming Languages: Perl, Python, Golang, Shell scripting
@@ -14,8 +14,9 @@ Highly skilled and motivated Site Reliability Engineer (SRE) / DevOps with over 
 - Virtualization: KVM, VMware ESxi, Xen, Virtuozzo
 - Infrastructure as Code (IaC): Puppet, Ansible, Terraform
 - Continuous Integration/Continuous Delivery (CI/CD): Jenkins, Github/GitLab CI/CD
-- Monitoring and Alerting: Zabbix, Prometheus, Grafana, ELK Stack
-- Databases: MySQL, Postgresql, Oracle, MongoDB, ClickHouse, Redis/Memcached
+- CI/CD Sec: SonarQube, FindSecBugs, Checkov, OpenSCAP, Vuls, grype, Trivy, clair, Falco, syft, cosign
+- Monitoring and Alerting: Nagios + mrtg, Zabbix, Prometheus, Grafana, ELK Stack
+- Databases: MySQL, PostgreSQL, Oracle, MongoDB, ClickHouse, Redis/Memcached, tarantool
 - Load balancing: LVS, haproxy, nginx, maxscale
 - High availability: RHCS, Corosync/Pacemaker, keepalived/VRRP
 - Networking: Cisco, Juniper, Brocade
@@ -25,18 +26,18 @@ Highly skilled and motivated Site Reliability Engineer (SRE) / DevOps with over 
 ## Certifications
 - Cloud Services Engineer, Yandex Ltd, 16.05.2024
 - Completion of the course "celestial mechanics", ITMO University, 10.06.2015
-- Engineering, spbstu, 11.05.2015
+- Engineering, SPbPU University, 11.05.2015
 - SQL server for beginners, UDEMY, 13.03.2015
 - SQL language online cource, UDEMY, 13.03.2015
-- M202: MongoDB Advanced Deployment and Operations, MongoDB university, 26.02.2015
-- LFS101x.2: Introduction to Linux, edX, 02.02.2015
+- M202: MongoDB Advanced Deployment and Operations, MongoDB University, 26.02.2015
+- LFS101x.2: Introduction to Linux, edX.org, 02.02.2015
 - Programming for Everybody (Python), coursera.org, 12.01.2015
 - Introduction to Linux, stepik.org, 10.12.2014
 - VoIP course for beginners, skillfactory, 06.12.2014
-- LFS101x: Introduction to Linux, edX, 15.08.2014
+- LFS101x: Introduction to Linux, edX.org, 15.08.2014
 - Technical specialist Radmin, RADMIN, 17.01.2014
 - Technical specialist ESET, ESET NOD32, 24.12.2013
-- M102: MongoDB for DBAs, MongoDB university, 26.11.2013
+- M102: MongoDB for DBAs, MongoDB University, 26.11.2013
 - Competition: "System Administration PRO", IT Starz 2013, 27.09.2013
 
 ## Experience
@@ -69,7 +70,7 @@ Highly skilled and motivated Site Reliability Engineer (SRE) / DevOps with over 
 - Windows AD administrating
 
 ## Languages
-- Russian: native
+- Russian: Native
 - English: B1
 - Polish: B1
 
