@@ -1,0 +1,11 @@
+title: Igor Lovalev  
+logo: 1.png
+description: Site Reliability / DevOps / DevSecOps Engineer
+show_downloads: true
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag
+
+email: iglov@avalon.land
