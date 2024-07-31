@@ -77,4 +77,4 @@ Highly skilled and motivated Site Reliability Engineer (SRE) / DevOps with more 
 ## References
 Available upon request
 
-> Actual version of this CV, you can always find here: **[https://iglov.github.io/cv](https://iglov.github.io/cv)**
+> Actual version of this CV, you can always find here: **[https://iglov.github.io/cv](https://iglov.github.io/cv)** or you can just download it as a **[file](https://iglov.github.io/cv/pdfs/README.pdf)**.
