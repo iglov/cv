@@ -45,31 +45,46 @@ Highly skilled and motivated Site Reliability Engineer (SRE) / DevOps with more 
 ### VoIP Service Provider
 #### Site Reliability / DevOPS Engineer, 2018 - Present
 
-- Implemented infrastructure automation using Puppet and Ansible, reducing manual provisioning time by 70% and improving consistency across environments.
-- Designed and built scalable pacemaker/corosync clusters for deploying (micro)services, containers and virtual machines, improving application scalability and fault tolerance.
+- Automated infrastructure management using Puppet and Ansible, leading to a 70% reduction in manual provisioning time and enhanced environment consistency.
+- Designed and implemented scalable pacemaker/corosync clusters for deploying (micro)services, containers and virtual machines, improving application scalability and fault tolerance.
 - Developed and maintained CI/CD pipelines using Jenkins and GitLab CI/CD, enabling automated building, testing, and deployment of applications.
-- Implemented monitoring and alerting solutions using Prometheus, VictoriaMetrics, Grafana, and ELK Stack, enabling proactive issue detection and reducing mean time to resolution.
-- Collaborated with development teams to improve application performance and reliability through performance tuning, load testing, and code optimization.
-- Led incident response and troubleshooting efforts, ensuring timely resolution of critical incidents and minimizing downtime.
+- Set up comprehensive monitoring and alerting systems using Prometheus, VictoriaMetrics, Grafana, and the ELK Stack, which enabled proactive issue identification and decreased mean time to resolution.
+- Collaborated with development teams to boost application performance and reliability through meticulous performance tuning, load testing, and code optimization.
+- Led incident response and troubleshooting efforts, ensuring quick resolution of critical incidents and minimizing system downtime.
 - Conducted Chaos Engineering experiments to proactively identify system weaknesses and improve resilience.
-- Participated in on-call rotations, responding to incidents and performing root cause analysis to prevent recurrence.
+- Participated in on-call rotations, handling incident responses and performing root cause analyses to prevent future occurrences.
 
 ### Large regional Internet Service Provider
 #### Duty Engineer (SRE), 2012-2017
 
-- Managed infrastructure on bare metal installed in our own data centers, ensuring high availability, scalability, and security.
+- Managed bare-metal infrastructure in proprietary data centers, ensuring high availability, scalability and security.
 - Automated infrastructure provisioning and configuration using Puppet and Ansible, reducing deployment time by 50% and improving infrastructure consistency.
 - Implemented centralized logging and log analysis using rsyslog, improving troubleshooting and monitoring capabilities.
-- Worked closely with development teams to implement performance monitoring and optimization strategies.
-- Collaborated with security teams to implement and maintain security controls and ensure compliance with industry standards.
-- Conducted disaster recovery planning and testing exercises to ensure business continuity.
+- Collaborated closely with development teams to devise and implement performance monitoring and optimization techniques.
+- Worked in conjunction with security teams to implement and maintain security controls and ensure compliance with industry standards.
+- Organized and executed disaster recovery planning and testing to guarantee business continuity.
 
-### Local private trading company
+### Private farming company @ Lineage II
+#### SysOp, 2009-2011
+
+- Developed scripts for Adrenaline bot reducing manual ingame windows provisioning time by 60% which allowed 24/7 farming.
+- Managed more than 20 hosts with hundreds ingame windows.
+- Implemented automated backup solutions to safeguard data and ensure quick recovery in case of failures.
+
+### Local private construction company
 #### System/Network Administrator, 2006-2008
-- Simple computer network management for about 30 hosts
-- Windows AD administrating
+
+- Built a computer network for approximately 30 hosts with 2 internet providers for fault tolerance that allowed to speed up the document flow.
+- Set up and maintained Squid proxy server for caching that allowed reduce internet traffic and payments to providers.
+- Implemented Windows Active Directory for streamlined network management and improved security.
+- Installed and updated software applications on all company computers, ensuring compliance with licensing agreements and reducing security vulnerabilities.
+- Provided technical support and troubleshooting for hardware and software issues, minimizing downtime and maintaining smooth operations.
+- Established network security firewalls and antivirus solutions, to protect against external and internal threats.
+- Trained employees on best practices for using network resources, improving overall efficiency and reducing the occurrence of user-related issues.
+- Managed data backup and recovery processes to ensure data integrity and quick restoration in case of system failures.
 
 ## Languages
+
 - Russian: Native
 - English: B1
 - Polish: B1
